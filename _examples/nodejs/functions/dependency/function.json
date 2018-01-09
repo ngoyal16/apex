@@ -1,0 +1,6 @@
+{
+	"description": "All extra config comes here",
+	"hooks": {
+		"build": "npm install -t ."
+	}
+}
